@@ -158,10 +158,6 @@ $('.clipboard').on('click', function() {
     setLinkCopied()
 })
 
-//Handles the Start New Meeting Functionality
-const new_meeting = () =>{
-    location.href = "https://connect-interact.herokuapp.com";
-}
 
 /**********************************************Control Panel Handlers End**********************************************/
 
