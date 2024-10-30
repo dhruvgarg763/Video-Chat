@@ -1,14 +1,14 @@
 {
   "name": "connect-interact",
   "version": "1.0.0",
-  "description": "A project made for the challenge of Microsoft Engage Program 2021",
+  "description": "Video Chat-Interact"
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "Kratik Agrawal",
+  "author": "Dhruv Garg",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
